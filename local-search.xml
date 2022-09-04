@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>webpack的基本安装</title>
+    <title>搭建个人博客详细教程</title>
     <link href="/2022/09/04/webpack%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%AE%89%E8%A3%85/"/>
     <url>/2022/09/04/webpack%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%AE%89%E8%A3%85/</url>
     
-    <content type="html"><![CDATA[<h2 id="命令"><a href="#命令" class="headerlink" title="命令"></a>命令</h2><p>npm webpack</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="基本环境"><a href="#基本环境" class="headerlink" title="基本环境"></a>基本环境</h2><p>安装<a href="https://nodejs.org/zh-cn/">node</a>环境</p><p>安装淘宝镜像 npm</p>]]></content>
     
     
     
